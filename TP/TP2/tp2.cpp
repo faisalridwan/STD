@@ -22,7 +22,8 @@ void printInfo(List L) {
     }
 }
 void insertFirst (List &L, address P) {
-    if(first(L))
+    if(first(L)) 
+    }else{
         next(P) = first(L);
     first(L) = P;
 }
