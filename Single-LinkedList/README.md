@@ -1,3 +1,5 @@
-JANGAN BIASAKAN COPY-PASTE, TAPI KETIK ULANG YAA :) :p
+HARAP JANGAN COPY-PASTE, BIASAKAN KETIK ULANG :) :p
 
-/* Created BY : FAISAL RIDWAN SIREGAR */
+ Created : Faisal Ridwan Siregar
+ 
+ jika ada yang salah DM saya ya di IG : @faisalridwan
