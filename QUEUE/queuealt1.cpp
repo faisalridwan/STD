@@ -32,7 +32,7 @@ void deQueue(queuealt1 &Q, angka &r){
         r = Q.info[Q.head];
         i = 0;
         while (i < Q.tail ){
-            Q.info[i] = Q.info[i-1];
+            Q.info[i] = Q.info[i+1];
             i++;
         }
         Q.tail--;
